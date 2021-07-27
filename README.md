@@ -17,9 +17,6 @@ The instructions to run our code are given below :
 A step by step series of examples that tell you how to get the code running
 
 Clone the repo
-
-```
-git clone https://github.com/keshav22bansal/BAKSA_IITK
 ```
 #### Create and start a virtual environment
 ##### Using virtualenv
